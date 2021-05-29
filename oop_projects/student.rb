@@ -16,7 +16,7 @@ class Student
 end
 
 philip = Student.new("Philip", "Smalls", "Philip@smalls.com", "SmallsBoy69", "YOLO")
-joe = Student.new("Joe", "Smoe", "Joe@smoe.com", "JoeStarBoy72", "MOLLY")
+joe = Student.new("Joe", "Smoe", "Joe@smoe.com", "JoeStarBoy72", "MOLY")
 
 puts philip
 puts joe
